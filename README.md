@@ -1,12 +1,8 @@
 # permission_camera
-
-Modul 5 Permission _ Camera Access
-
-Nama  : Ekky Ramadhan
-
-NIM   : 123190124
-
-Praktikum TPM A
+Tugas 3 - Permission & Camera Access
+Nama  : Bagas Alifa Nugraha
+NIM   : 123190099
+Kelas : Praktikum Teknologi dan Pemrograman Mobile IF-A
 
 ## Getting Started
 
