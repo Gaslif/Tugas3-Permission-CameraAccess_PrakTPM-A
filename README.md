@@ -1,7 +1,11 @@
 # permission_camera
+
 Tugas 3 - Permission & Camera Access
+
 Nama  : Bagas Alifa Nugraha
+
 NIM   : 123190099
+
 Kelas : Praktikum Teknologi dan Pemrograman Mobile IF-A
 
 ## Getting Started
